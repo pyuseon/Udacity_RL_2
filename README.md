@@ -93,5 +93,5 @@ python -m ipykernel install --user --name drlnd --display-name "drlnd"
 
 
 For code for models and agents, see files `model.py` and `ddpg_agent.py` .
-The training code for this project is in file `Project2_contiuous Control.ipynd`, and it will be easy to understand if you focus more on the **DDPG Agent part.
+The training code for this project is in file `Project2_contiuous Control.ipynd`, and it will be easy to understand if you focus more on the '4. DDPG Agent' part.
 
